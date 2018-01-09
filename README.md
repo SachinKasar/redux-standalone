@@ -11,7 +11,7 @@
 **Steps to follow**
 
 :one: clone git repo with 
-**npm clone https://github.com/SachinKasar/redux-standalone.git**
+**git clone https://github.com/SachinKasar/redux-standalone.git**
 
 :two: install npm packages with command
 **npm install**
